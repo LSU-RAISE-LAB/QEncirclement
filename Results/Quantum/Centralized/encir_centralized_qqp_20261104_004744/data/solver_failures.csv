@@ -1,0 +1,2 @@
+step,time_s,architecture,solver,failure_reason,primary_diagnosis,implicated_groups,minimum_total_normalized_slack
+195,9.75,centralized,qqp,"RuntimeError: Centralized QP returned an infeasible solution: ineq=1.322e-04, bound=0.000e+00.",,,
