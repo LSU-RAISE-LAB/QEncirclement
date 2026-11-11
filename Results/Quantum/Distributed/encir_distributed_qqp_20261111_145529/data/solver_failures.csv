@@ -1,0 +1,2 @@
+step,time_s,architecture,solver,failure_reason,primary_diagnosis,implicated_groups,minimum_total_normalized_slack
+374,18.7,distributed,quadprog,"RuntimeError: ADMM satisfied its consensus stopping test but the returned distributed wheel input failed the centralized-equivalent feasibility audit at t=18.700: ineq=2.038e-05, bound=0.000e+00, tol=2.000e-05.",,,

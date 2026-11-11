@@ -1,0 +1,15 @@
+metric,value
+Steady-state mean position error [m],0.006851323377824262
+Steady-state max position error [m],0.008789883779400891
+Steady-state mean |radial error| [m],0.0422660126308794
+Minimum robot-robot distance [m],0.7990694091848425
+Minimum robot-target distance [m],1.0392690335275119
+Center estimator theoretical bound [s],0.6917301658595865
+Radius estimator total theoretical bound [s],2.2517301658595867
+Center estimator empirical settling [s],
+Radius estimator empirical settling [s],
+Mean solver runtime [s/successful sample],0.011382689638140034
+QP/ADMM failure count,1
+QP/ADMM failure fraction,0.0007142857142857143
+Most common QP failure diagnosis,unclassified
+Max inequality residual,1.900285801914592e-05
